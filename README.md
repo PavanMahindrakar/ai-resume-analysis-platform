@@ -1,24 +1,8 @@
-<div align="center">
-
 # 🚀 AI Resume Analysis Platform
 
 ### Explainable Resume–Job Description Matching System
 
-**A full-stack web application that analyzes resumes against job descriptions using transparent, explainable NLP techniques**
-
-<p align="center">
-<a href="#-overview">Overview</a> •
-<a href="#-key-features">Features</a> •
-<a href="#-technology-stack">Tech Stack</a> •
-<a href="#-system-architecture">Architecture</a> •
-<a href="#-api-overview">API</a> •
-<a href="#-quick-start">Quick Start</a> •
-<a href="#-contributing">Contributing</a>
-</p>
-
-</div>
-
----
+<div align="center">
 
 **A full-stack web application that analyzes resumes against job descriptions using transparent, explainable NLP techniques**
 
@@ -30,11 +14,7 @@
 
 </div>
 
-<div align="center">
-
 ---
-
-</div>
 
 ## 🎯 Overview
 
@@ -50,11 +30,7 @@ Most Applicant Tracking Systems (ATS) behave like black boxes, offering little f
 
 ---
 
-<div align="center">
-
 ## ✨ Key Features
-
-</div>
 
 ### 🔐 Authentication
 
@@ -99,11 +75,7 @@ Most Applicant Tracking Systems (ATS) behave like black boxes, offering little f
 
 ---
 
-<div align="center">
-
 ## 🛠 Technology Stack
-
-</div>
 
 ### Backend
 
@@ -137,11 +109,7 @@ Most Applicant Tracking Systems (ATS) behave like black boxes, offering little f
 
 ---
 
-<div align="center">
-
 ## 🏗 System Architecture
-
-</div>
 
 ```
 React (TypeScript)
@@ -163,11 +131,7 @@ PostgreSQL
 
 ---
 
-<div align="center">
-
 ## 🔬 Explainable Matching Logic (Core Innovation)
-
-</div>
 
 ### Why TF-IDF?
 
@@ -198,11 +162,7 @@ This approach prioritizes **clarity and trust** over opaque accuracy.
 
 ---
 
-<div align="center">
-
 ## 📡 API Overview
-
-</div>
 
 ### Authentication
 
@@ -241,11 +201,7 @@ GET /api/v1/dashboard/history
 
 ---
 
-<div align="center">
-
 ## 🚀 Quick Start
-
-</div>
 
 ### Backend
 
@@ -270,11 +226,7 @@ npm run dev
 
 ---
 
-<div align="center">
-
 ## 🧪 Testing
-
-</div>
 
 * Unit tests for matching logic and security
 * Integration tests for APIs
@@ -286,11 +238,7 @@ pytest --cov=app
 
 ---
 
-<div align="center">
-
 ## 🚀 Future Enhancements
-
-</div>
 
 * Semantic similarity using word embeddings
 * Skill synonym dictionary
@@ -301,11 +249,7 @@ pytest --cov=app
 
 ---
 
-<div align="center">
-
 ## 🤝 Contributing
-
-</div>
 
 Contributions, issues, and feature requests are welcome.
 
@@ -320,25 +264,17 @@ Please ensure code is well-documented and follows existing project structure.
 
 ---
 
-<div align="center">
-
 ## 👤 Author
-
-</div>
 
 **Pavan Mahindrakar**
 Aspiring Software Engineer | Python & Full-Stack Developer
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
+* GitHub: [https://github.com/your-username](https://github.com/PavanMahindrakar)
+* LinkedIn: [https://www.linkedin.com/in/your-linkedin](https:/www.linkedin.com/in/pavanmahindrakar)
 
 ---
 
-<div align="center">
-
 ## 📄 License
-
-</div>
 
 This project is licensed under the **MIT License**.
 
