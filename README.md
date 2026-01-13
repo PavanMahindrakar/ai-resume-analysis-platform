@@ -16,6 +16,18 @@
 
 ---
 
+<p align="center">
+  <a href="#-overview">Overview</a><br/>
+  <a href="#-key-features">Features</a><br/>
+  <a href="#-technology-stack">Tech Stack</a><br/>
+  <a href="#-system-architecture">Architecture</a><br/>
+  <a href="#-api-overview">API</a><br/>
+  <a href="#-quick-start">Quick Start</a><br/>
+  <a href="#-contributing">Contributing</a>
+</p>
+
+---
+
 ## 🎯 Overview
 
 **AI Resume Analysis Platform** is a Python full-stack application that helps job seekers understand how well their resume matches a job description — and *why*.
