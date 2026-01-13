@@ -269,8 +269,8 @@ Please ensure code is well-documented and follows existing project structure.
 **Pavan Mahindrakar**
 Aspiring Software Engineer | Python & Full-Stack Developer
 
-* GitHub: [https://github.com/your-username](https://github.com/PavanMahindrakar)
-* LinkedIn: [https://www.linkedin.com/in/your-linkedin](https:/www.linkedin.com/in/pavanmahindrakar)
+* GitHub:  [@PavanMahindrakar](https://github.com/PavanMahindrakar)
+
 
 ---
 
