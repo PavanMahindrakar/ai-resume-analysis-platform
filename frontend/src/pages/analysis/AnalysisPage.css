@@ -1,0 +1,24 @@
+.analysis-page {
+  width: 100%;
+}
+
+.analysis-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+}
+
+.analysis-button {
+  margin-top: 0.5rem;
+}
+
+.analysis-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
