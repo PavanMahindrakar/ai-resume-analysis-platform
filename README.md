@@ -296,6 +296,6 @@ This project is licensed under the **MIT License**.
 
 **Built with ❤️ using FastAPI, React, and PostgreSQL**
 
-[Back to Top](#-ai-resume-intelligence--career-copilot)
+[Back to Top](#-ai-resume-analysis-platform)
 
 </div>
