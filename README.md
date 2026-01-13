@@ -290,16 +290,15 @@ Aspiring Software Engineer | Python & Full-Stack Developer
 
 This project is licensed under the **MIT License**.
 
-You are free to:
-
-* Use the code for personal or commercial projects
-* Modify and distribute the code
-* Include it in your own applications
-
-See the `LICENSE` file for full license text.
-
 ---
 
+<div align="center">
+
+**Built with ❤️ using FastAPI, React, and PostgreSQL**
+
+[Back to Top](#-ai-resume-intelligence--career-copilot)
+
+</div>
 <div align="center">
 
 **Built with FastAPI, React, and PostgreSQL**
