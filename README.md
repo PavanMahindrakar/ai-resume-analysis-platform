@@ -16,15 +16,14 @@
 
 ---
 
-<p>
-  <a href="#-overview">Overview</a><br/>
-  <a href="#-key-features">Features</a><br/>
-  <a href="#-technology-stack">Tech Stack</a><br/>
-  <a href="#-system-architecture">Architecture</a><br/>
-  <a href="#-api-overview">API</a><br/>
-  <a href="#-quick-start">Quick Start</a><br/>
-  <a href="#-contributing">Contributing</a>
-</p>
+## Table of Contents
+- [Overview](#-overview)
+- [Features](#-key-features)
+- [Tech Stack](#-technology-stack)
+- [Architecture](#-system-architecture)
+- [API](#-api-overview)
+- [Quick Start](#-quick-start)
+- [Contributing](#-contributing)
 
 ---
 
