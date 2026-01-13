@@ -2,7 +2,7 @@
 
 ### Explainable Resume–Job Description Matching System
 
-<div align="center">
+<div>
 
 **A full-stack web application that analyzes resumes against job descriptions using transparent, explainable NLP techniques**
 
@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center">
+<p>
   <a href="#-overview">Overview</a><br/>
   <a href="#-key-features">Features</a><br/>
   <a href="#-technology-stack">Tech Stack</a><br/>
